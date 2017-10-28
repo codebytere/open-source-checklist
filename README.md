@@ -14,12 +14,12 @@ Automating CFPB's [Open Source Checklist](https://github.com/cfpb/open-source-pr
 To use [scrub.sh](scrub.sh) to scrub GHE urls:
 
 ### Add environment variable
-
+sdjadsjkdkjhdjkdjk
 1. Add `.env` and `scrub.sh` to your project's `.gitignore` list.
 1. Copy [`.env_SAMPLE`](.env_SAMPLE) to your project's root.
 1. Rename `.env_SAMPLE` to `.env`.
 1. Edit `fake.ghe.url` to point to the real GHE url (do not include `https://`).
-1. `cd` into your project repo root to activate the new environment variable. You should receive a warning and then a confirmation message: 
+1. `cd` into your project repo root to activate the new environment variable. You should receive a warning and then a confirmation message:
 
 ![](https://raw.githubusercontent.com/cfpb/open-source-checklist/master/screenshot-env.png)
 
